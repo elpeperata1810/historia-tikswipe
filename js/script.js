@@ -44,11 +44,10 @@ const videos = [
     "https://media.icfcdn.com/9deeea/76/94325776/29d658f4a25b48718e6954b0052fef7a/media.mp4",
     "https://media.icfcdn.com/86a4d5/20/114030749/13efd75fbd7145e88dfd93d0d8dbc549/media.mp4",
     "https://media.icfcdn.com/9deeea/76/120549542/1d5c266290554372b43f283b10a16955/media.mp4",
-    "",
-    "",
-    "",
-    "",
-    "",
+    "https://media.icfcdn.com/9deeea/40/103727269/fffe7a3954594a0aa82766d5fd3ec9d5/media.mp4",
+    "https://media.icfcdn.com/9deeea/80/103727269/2cc3d51e269f45f687560e4f8b370ffb/media.mp4",
+    "https://media.icfcdn.com/9deeea/36/125387138/80d2ab49809848a2a29d38225d50a224/media.mp4",
+    
 ];
 
 // Función para cargar videos en las secciones
